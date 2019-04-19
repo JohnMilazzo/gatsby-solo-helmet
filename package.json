@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-solo-helmet",
+  "version": "0.0.1",
+  "description": "A Gatsby Solo starter featuring gatsby-plugin-react-helmet from AtomicGatsby.com",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "keywords": [
+    "Atomic Gatsby",
+    "GatsbyJS",
+    "Gatsby",
+    "Google gtag"
+  ],
+  "author": "John Milazzo <jm@atomicgatsby.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMilazzo/gatsby-solo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
+  },
+  "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
+  "dependencies": {
+    "gatsby": "^2.3.25",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0"
+  }
+}
